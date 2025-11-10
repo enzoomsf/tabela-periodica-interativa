@@ -1,0 +1,189 @@
+{
+  "users": [
+    {
+      "email": "henrique@email.com",
+      "password": "$2a$10$UHx0OoR99pLFXOcsVYDHmu99LC01NtrPSQ5o.goQ04kNCfCnuR4OS",
+      "name": "henrique sousa",
+      "id": 3
+    },
+    {
+      "email": "felipe@email.com",
+      "password": "$2a$10$2IusmYXCpAryAIXFkjj73.apWaBJSf.pcnuZlwaMkLTd.0IRRinea",
+      "name": "felipe moura",
+      "id": 4
+    },
+    {
+      "email": "vitograu@gmail.com",
+      "password": "$2a$10$uvFJGCjCMfxTY5iijJ6PUuvE0UXYBbmB/3Blda3ao4JXCgCvO/CVy",
+      "name": "vitinho do grau",
+      "id": 5
+    }
+  ],
+  "elementos": [
+    {
+      "id": 1,
+      "name": "Hidrogênio",
+      "symbol": "H",
+      "atomicNumber": 1,
+      "radioactive": false,
+      "abundant": true,
+      "grupo": "Não-metal",
+      "estado": "Gás",
+      "massaAtomica": 1.008
+    },
+    {
+      "id": 2,
+      "name": "Hélio",
+      "symbol": "He",
+      "atomicNumber": 2,
+      "radioactive": false,
+      "abundant": false,
+      "grupo": "Gás Nobre",
+      "estado": "Gás",
+      "massaAtomica": 4.0026
+    },
+    {
+      "id": 3,
+      "name": "Lítio",
+      "symbol": "Li",
+      "atomicNumber": 3,
+      "radioactive": false,
+      "abundant": false,
+      "grupo": "Metal Alcalino",
+      "estado": "Sólido",
+      "massaAtomica": 6.94
+    },
+    {
+      "id": 4,
+      "name": "Berílio",
+      "symbol": "Be",
+      "atomicNumber": 4,
+      "radioactive": false,
+      "abundant": false,
+      "grupo": "Metal Alcalino-terroso",
+      "estado": "Sólido",
+      "massaAtomica": 9.0122
+    },
+    {
+      "id": 5,
+      "name": "Boro",
+      "symbol": "B",
+      "atomicNumber": 5,
+      "radioactive": false,
+      "abundant": false,
+      "grupo": "Semimetal",
+      "estado": "Sólido",
+      "massaAtomica": 10.81
+    },
+    {
+      "id": 6,
+      "name": "Carbono",
+      "symbol": "C",
+      "atomicNumber": 6,
+      "radioactive": false,
+      "abundant": true,
+      "grupo": "Não-metal",
+      "estado": "Sólido",
+      "massaAtomica": 12.011
+    },
+    {
+      "id": 7,
+      "name": "Nitrogênio",
+      "symbol": "N",
+      "atomicNumber": 7,
+      "radioactive": false,
+      "abundant": true,
+      "grupo": "Não-metal",
+      "estado": "Gás",
+      "massaAtomica": 14.007
+    },
+    {
+      "id": 8,
+      "name": "Oxigênio",
+      "symbol": "O",
+      "atomicNumber": 8,
+      "radioactive": false,
+      "abundant": true,
+      "grupo": "Não-metal",
+      "estado": "Gás",
+      "massaAtomica": 15.999
+    },
+    {
+      "id": 9,
+      "name": "Flúor",
+      "symbol": "F",
+      "atomicNumber": 9,
+      "radioactive": false,
+      "abundant": false,
+      "grupo": "Halogênio",
+      "estado": "Gás",
+      "massaAtomica": 18.998
+    },
+    {
+      "id": 10,
+      "name": "Neônio",
+      "symbol": "Ne",
+      "atomicNumber": 10,
+      "radioactive": false,
+      "abundant": false,
+      "grupo": "Gás Nobre",
+      "estado": "Gás",
+      "massaAtomica": 20.18
+    },
+    {
+      "id": 11,
+      "name": "Sódio",
+      "symbol": "Na",
+      "atomicNumber": 11,
+      "radioactive": false,
+      "abundant": true,
+      "grupo": "Metal Alcalino",
+      "estado": "Sólido",
+      "massaAtomica": 22.99
+    },
+    {
+      "id": 12,
+      "name": "Magnésio",
+      "symbol": "Mg",
+      "atomicNumber": 12,
+      "radioactive": false,
+      "abundant": true,
+      "grupo": "Metal Alcalino-terroso",
+      "estado": "Sólido",
+      "massaAtomica": 24.305
+    },
+    {
+      "id": 13,
+      "name": "Alumínio",
+      "symbol": "Al",
+      "atomicNumber": 13,
+      "radioactive": false,
+      "abundant": true,
+      "grupo": "Outros Metais",
+      "estado": "Sólido",
+      "massaAtomica": 26.982
+    },
+    {
+      "id": 14,
+      "name": "Silício",
+      "symbol": "Si",
+      "atomicNumber": 14,
+      "radioactive": false,
+      "abundant": true,
+      "grupo": "Semimetal",
+      "estado": "Sólido",
+      "massaAtomica": 28.085
+    },
+    {
+      "id": 15,
+      "name": "Fósforo",
+      "symbol": "P",
+      "atomicNumber": 15,
+      "radioactive": false,
+      "abundant": false,
+      "grupo": "Não-metal",
+      "estado": "Sólido",
+      "massaAtomica": 30.974
+    }
+  ]
+}
